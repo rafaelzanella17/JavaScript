@@ -2,7 +2,7 @@
 https://developer.mozilla.org/pt-BR/docs/Web/API/Element/innerHTML
 https://www.w3schools.com/jsref/prop_html_innerhtml.asp
 
-innerHTML acesse as referências acima.
+innerHTML acesse as referências acima para outros exemplos.
 */
 
 function executa() {
