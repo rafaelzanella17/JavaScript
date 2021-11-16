@@ -1,6 +1,5 @@
 /*
-console.log()
-Escrever no console do navegador em JavaScript.
+Ferramentas de desenvolvedor do navegador você visualiza a mensagem.
 */
 console.log('Vai aparecer esse texto no "console" do navegador.');
 console.log('=====================================================');
